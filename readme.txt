@@ -48,16 +48,3 @@ Data type for thespian records.
 
 Name:  ThespianDatabase
 Database encapsulating the thespian records BST. 
-
-   
-   
-*******************************************************
-*  Status of program
-*******************************************************
-
-   Includes extra credit.
-
-   The program runs successfully. 
-   The program was developed and tested on Xcode g++ on OSX version 10.14.2.
-   It was compiled, run, and tested on csegrid.ucdenver.pvt.
-
