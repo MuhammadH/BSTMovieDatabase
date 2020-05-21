@@ -6,7 +6,7 @@
 *******************************************************
 
 
-This program makes a three databases for 3 datasets. The databases are based on custom binary search trees and have all the functionality of BSTs. 
+This program makes a three databases for 3 datasets (historic Oscar nominations for 3 categories). The databases are based on custom binary search trees and have all the functionality of BSTs. 
 
 This was a project for data structures. Good examples of templates use if I ever need to look back on it. 
 
